@@ -1,8 +1,7 @@
 
 
 # 💫 About Me:
- Aspiring Full Stack Developer  <br>🎓 BSIT Student – Rawalpindi Women University  <br><br>I am passionate about building responsive, user-friendly, and scalable web applications.  <br>I enjoy working on both frontend and backend development and continuously improving my skills in modern and secure web technologies.<br><br>Currently focused on strengthening my Full Stack Development and problem-solving skills through real-world projects.
-
+ Aspiring Full Stack Developer  <br>🎓 BSIT Student – Rawalpindi Women University  <br><br>I am passionate about building responsive, user-friendly, and scalable web applications.  <br>I enjoy working on both frontend and backend development and continuously improving my skills in modern and secure web technologies.
 
 
 ## 🌐 Socials:
@@ -26,8 +25,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ifra489&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_contributor_rank=false)
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AdsApp](https://github.com/ifra489/AdsApp) | Android app demonstrating AdMob integration  | Java, Firebase, Google Ads |
+| [Lumière Salon](https://github.com/ifra489/lumiere-salon) | Luxury salon website with 3D animations & WhatsApp booking | HTML, CSS, JS |
+| [Ecommerce ](https://github.com/ifra489/E-commerce) | A full-stack e-commerce platform , real-time order management, and an admin dashboard. | HTML, CSS, JS ,Node JS|
+| [Ai App Idea Generator  ](https://github.com/ifra489/Ai-App-idea-Generator) | An AI-powered web application that generates complete, structured startup ideas for developers and entrepreneurs. | HTML, CSS, JS ,Node JS|
 
 ---
 [![](https://komarev.com/ghpvc/?username=ifra489&color=blueviolet)]
