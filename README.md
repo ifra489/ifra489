@@ -27,11 +27,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ifra489&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ifra489&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ifra489&icon=5&color=7)](https://visitcount.itsvg.in)
-
+[![](https://komarev.com/ghpvc/?username=ifra489&color=blueviolet)]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
