@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
- Aspiring Full Stack Developer  <br>🎓 BSIT Student – Rawalpindi Women University  <br><br>I am passionate about building responsive, user-friendly, and scalable web applications.  <br>I enjoy working on both frontend and backend development and continuously improving my skills in modern and secure web technologies.
+ Aspiring Full Stack Developer  <br>🎓 BSIT Student , Rawalpindi Women University  <br><br>I am passionate about building responsive, user-friendly, and scalable web applications.  <br>I enjoy working on both frontend and backend development and continuously improving my skills in modern and secure web technologies.
 
 
 ## 🌐 Socials:
