@@ -29,7 +29,7 @@
 | [Ecommerce ](https://github.com/ifra489/E-commerce) | A full-stack e-commerce platform , real-time order management, and an admin dashboard. | HTML, CSS, JS ,Node JS|
 | [Ai App Idea Generator  ](https://github.com/ifra489/Ai-App-idea-Generator) | An AI-powered web application that generates complete, structured startup ideas for developers and entrepreneurs. | HTML, CSS, JS ,Node JS|
 | [Document QA Agent ](https://github.com/ifra489/document-qa-agent) | An AI-powered agent that lets you upload any PDF document and ask questions in natural language. | Python,Streamlit , OpenRouter API, PyPDF2, python-dotenv|
-| [Document QA Agent ](https://github.com/ifra489/fullstack-blog-app) | Full-stack blog app built with Node.js, Express, MongoDB, Passport.js & Cloudinary features auth, CRUD posts, image uploads, comments, likes, search and pagination. | NodeJS  ExpressJS Mongodb PassportJS Cloudinary Multer |
+| [FullStack Blog  ](https://github.com/ifra489/fullstack-blog-app) | Full-stack blog app built with Node.js, Express, MongoDB, Passport.js & Cloudinary features auth, CRUD posts, image uploads, comments, likes, search and pagination. | NodeJS  ExpressJS Mongodb PassportJS Cloudinary Multer |
 
 ---
 [![](https://komarev.com/ghpvc/?username=ifra489&color=blueviolet)]
