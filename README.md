@@ -1,7 +1,14 @@
 
 
-# 💫 About Me:
- Full Stack Developer | React Node.JS MongoDB AI integration  <br>🎓 BSIT Graduate , Rawalpindi Women University  <br><br>I am passionate about building responsive, user-friendly, and scalable web applications.  <br>I enjoy working on both frontend and backend development and continuously improving my skills in modern and secure web technologies.
+# 💫 About Me
+
+👋 Hi, I'm **Ifra Malik**
+
+🎓 BSIT Graduate | Rawalpindi Women University
+
+I'm a Software Engineer passionate about building modern web, Android, and AI-powered applications. I enjoy turning ideas into real-world solutions through clean code, intuitive user experiences, and scalable architectures.
+
+Currently exploring AI automation, intelligent workflows, and full-stack application development while continuously learning new technologies
 
 
 ## 🌐 Socials:
